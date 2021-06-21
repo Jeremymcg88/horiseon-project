@@ -4,6 +4,15 @@
     margin: 0;
 }
 
+/* Adding CSS variable for color */
+
+:root {
+    --background-color: #d9dcd6;
+    --color-white: #ffffff;
+    --color-blue: #0072bb;
+    --color-teal: #2a607c;
+}
+
 body {
     background-color: #d9dcd6;
 }
